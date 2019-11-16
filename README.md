@@ -1,2 +1,4 @@
 # hellow_world
-New project 
+Introducing myself
+
+I am new to GitHub. It's fun to learn coding.
